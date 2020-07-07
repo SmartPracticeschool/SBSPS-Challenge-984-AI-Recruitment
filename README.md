@@ -1,10 +1,16 @@
 # SBSPS-Challenge-984-AI-Recruitment
 Chatbot for Interviews and inplementation in Node Red Web dashboard.
+
 Table of Contents:
+
 1. About the Project
+
     1.1 Features
+    
 About The Project
+
 Features
+
 1. Saves Precious Time
 Does your team spend too much time screening candidates? Let it get back to doing what they do best - building the product - and let automation do the tedious work for you.
 
