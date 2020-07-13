@@ -19,3 +19,16 @@ Our platform lets you filter developers by basic technical skills that developer
 
 3. Applicant approved
 Technical candidates love our platform. Apply-by-AI is not just fast, it is way more fun than sending plain emails. We understand the tedious part of uploading a resume and managing one and help you offload it to your platform.
+
+Node Red Web Dashboard:
+⦁	https://zaheerabdul.eu-gb.mybluemix.net/ui
+
+Node Red Flow:
+⦁	https://zaheerabdul.eu-gb.mybluemix.net/red/#flow/120e0e67.83dec2
+
+YouTube Video Demosntration:
+⦁	https://youtu.be/cnGcDtzE7T8
+
+Watson Assistant:
+⦁	https://eu-gb.assistant.watson.cloud.ibm.com/eu-gb/crn:v1:bluemix:public:conversation:eu-gb:a~2Fa43d063654e84ee1ba632d3e133a0ee7:50e10cf8-38e7-4bd4-bcbb-f3aa332f2216::/skills/82516e30-fe7c-42b9-894a-bac7627461e8/build/dialog
+
